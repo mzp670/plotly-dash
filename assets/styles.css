@@ -1,0 +1,42 @@
+ /* Customize header */
+.header-background {
+    background-image: url('/assets/lakepukaki1.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.header-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.header-subtitle {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgba(162, 245, 254, 0.937);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+ /* Customize year slider */
+.slider-custom .rc-slider-rail {
+    background-color: lightblue; 
+}
+
+.slider-custom .rc-slider-track {
+    background-color: slategray;  
+}
+
+.year-slider-row .nav-pills .nav-link {
+    background-color: blue; 
+}
+
+.tab-custom .nav .nav-link.active {
+    background-color: slategray;  
+}
