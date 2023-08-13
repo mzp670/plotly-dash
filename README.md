@@ -52,17 +52,17 @@ Data Source:
 https://nzdotstat.stats.govt.nz/wbos/Index.aspx? 
 
 Code & Design Sources:  
-https://github.com/Coding-with-Adam/Dash-by-Plotly
-https://github.com/plotly/dash-sample-apps/tree/2c05a6090d138b286da3b8fa66f805e3d7cff69d/apps
-https://towardsdatascience.com/plot-choropleth-maps-with-shapefiles-using-geopandas-a6bf6ade0a49
-https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-baseball-statistics
-https://dash.gallery/usa-gov-analytics/
-https://dashcheatsheet.pythonanywhere.com/
-https://chart-studio.plotly.com/~empet/15238/tips-to-extract-data-from-a-geojson-di/#/
-https://plotly.com/python-api-reference/generated/plotly.graph_objects.Choroplethmapbox.html
+https://github.com/Coding-with-Adam/Dash-by-Plotly  
+https://github.com/plotly/dash-sample-apps/tree/2c05a6090d138b286da3b8fa66f805e3d7cff69d/apps  
+https://towardsdatascience.com/plot-choropleth-maps-with-shapefiles-using-geopandas-a6bf6ade0a49  
+https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-baseball-statistics  
+https://dash.gallery/usa-gov-analytics/  
+https://dashcheatsheet.pythonanywhere.com/  
+https://chart-studio.plotly.com/~empet/15238/tips-to-extract-data-from-a-geojson-di/#/  
+https://plotly.com/python-api-reference/generated/plotly.graph_objects.Choroplethmapbox.html  
 
 Help Support:  
-https://chat.openai.com/
-https://community.plotly.com/
-https://stackoverflow.com/
+https://chat.openai.com/  
+https://community.plotly.com/  
+https://stackoverflow.com/  
 
